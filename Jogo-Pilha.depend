@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1678496683 source:c:\users\gutoo\downloads\jogo-pilha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<locale.h>
+	<unistd.h>
+
+1678532950 source:d:\gustavo gomes e myrella caroline\jogo-pilha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<unistd.h>
+
+1680140028 source:c:\users\gutoo\onedrive\documentos\jogo-pilha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<unistd.h>
+
